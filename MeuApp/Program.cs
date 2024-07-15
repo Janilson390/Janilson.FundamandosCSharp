@@ -1,3 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-var texto = "Janilson";
-Console.WriteLine($"Hello, World! My name is {texto}");
+﻿internal class Program
+{
+    private static void Main(string[] args)
+    {
+        var texto = "Janilson";
+        System.Object value = Console.WriteLine($"Hello, World! My name is {texto}");
+    }
+}

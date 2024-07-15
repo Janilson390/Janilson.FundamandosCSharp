@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Janilson\\Janilson.FundamandosCSharp\\MeuApp\\MeuApp.csproj": {}
+    "D:\\Janilson\\Janilson.FundamandosCSharp\\MeuApp2\\MeuApp2.csproj": {}
   },
   "projects": {
-    "d:\\Janilson\\Janilson.FundamandosCSharp\\MeuApp\\MeuApp.csproj": {
+    "D:\\Janilson\\Janilson.FundamandosCSharp\\MeuApp2\\MeuApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Janilson\\Janilson.FundamandosCSharp\\MeuApp\\MeuApp.csproj",
-        "projectName": "MeuApp",
-        "projectPath": "d:\\Janilson\\Janilson.FundamandosCSharp\\MeuApp\\MeuApp.csproj",
+        "projectUniqueName": "D:\\Janilson\\Janilson.FundamandosCSharp\\MeuApp2\\MeuApp2.csproj",
+        "projectName": "MeuApp2",
+        "projectPath": "D:\\Janilson\\Janilson.FundamandosCSharp\\MeuApp2\\MeuApp2.csproj",
         "packagesPath": "C:\\Users\\Mayara Freire\\.nuget\\packages\\",
-        "outputPath": "d:\\Janilson\\Janilson.FundamandosCSharp\\MeuApp\\obj\\",
+        "outputPath": "D:\\Janilson\\Janilson.FundamandosCSharp\\MeuApp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mayara Freire\\AppData\\Roaming\\NuGet\\NuGet.Config"

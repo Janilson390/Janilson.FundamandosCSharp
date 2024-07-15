@@ -12,3 +12,4 @@ D:\Janilson\Janilson.FundamandosCSharp\MeuApp\obj\Debug\net8.0\refint\MeuApp.dll
 D:\Janilson\Janilson.FundamandosCSharp\MeuApp\obj\Debug\net8.0\MeuApp.pdb
 D:\Janilson\Janilson.FundamandosCSharp\MeuApp\obj\Debug\net8.0\MeuApp.genruntimeconfig.cache
 D:\Janilson\Janilson.FundamandosCSharp\MeuApp\obj\Debug\net8.0\ref\MeuApp.dll
+D:\Janilson\Janilson.FundamandosCSharp\MeuApp\obj\Debug\net8.0\MeuApp.sourcelink.json
